@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rks-fachkraefte.de/sitemap.xml

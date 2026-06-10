@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "title": "RKS Fachkräfte — Qualifizierte Fachkräfte aus Marokko für Deutschland",
+    "description": "RKS Fachkräfte vermittelt exklusiv qualifizierte Fachkräfte aus Marokko an erstklassige Arbeitgeber in Deutschland."
+  },
+  "nav": {
+    "home": "Startseite",
+    "candidates": "Für Fachkräfte",
+    "employers": "Für Arbeitgeber",
+    "process": "Ablauf",
+    "industries": "Branchen",
+    "about": "Über uns",
+    "faq": "FAQ",
+    "resources": "Ressourcen",
+    "contact": "Kontakt",
+    "apply": "Jetzt bewerben",
+    "request": "Personal anfragen",
+    "login": "Anmelden",
+    "portal": "Mein Portal",
+    "logout": "Abmelden"
+  },
+  "hero": {
+    "title": "Ihre Brücke zwischen Marokko und Deutschland",
+    "subtitle": "RKS Fachkräfte verbindet exklusiv qualifizierte Fachkräfte aus Marokko mit erstklassigen Arbeitgebern in Deutschland — persönlich, professionell, zuverlässig.",
+    "ctaCandidate": "Als Fachkraft bewerben",
+    "ctaEmployer": "Als Arbeitgeber anfragen",
+    "trust": "Vertrauen von über 50 Partnerunternehmen"
+  },
+  "stats": {
+    "placed": "Vermittelte Fachkräfte",
+    "employers": "Partner-Arbeitgeber",
+    "satisfaction": "Zufriedenheitsrate",
+    "countries": "Länder vernetzt"
+  },
+  "features": {
+    "title": "Warum RKS Fachkräfte?",
+    "exclusive": {
+      "title": "Exklusiver Kandidatenpool",
+      "desc": "Jeder Kandidat wird persönlich geprüft und qualifiziert — nur die Besten kommen in unser Netzwerk."
+    },
+    "support": {
+      "title": "Rundum-Betreuung",
+      "desc": "Von der Bewerbung über das Visum bis zur Integration in Deutschland — wir begleiten Sie auf jedem Schritt."
+    },
+    "quality": {
+      "title": "Premium-Arbeitgeber",
+      "desc": "Wir arbeiten ausschließlich mit seriösen, geprüften Unternehmen in Deutschland zusammen."
+    },
+    "languages": {
+      "title": "Mehrsprachige Betreuung",
+      "desc": "Kommunikation in Deutsch, Arabisch, Französisch und Englisch — keine Sprachbarrieren."
+    }
+  },
+  "process": {
+    "title": "So funktioniert's",
+    "subtitle": "In 7 Schritten zu Ihrer neuen Karriere in Deutschland",
+    "steps": {
+      "1": { "title": "Bewerbung", "desc": "Online-Formular ausfüllen und Dokumente hochladen" },
+      "2": { "title": "Prüfung", "desc": "Qualifikation und Dokumente werden geprüft" },
+      "3": { "title": "Qualifizierung", "desc": "Aufnahme in den exklusiven Kandidatenpool" },
+      "4": { "title": "Matching", "desc": "Passender Arbeitgeber wird gefunden" },
+      "5": { "title": "Vermittlung", "desc": "Arbeitsvertrag und Vorbereitung" },
+      "6": { "title": "Visum", "desc": "Unterstützung bei Visum und Arbeitserlaubnis" },
+      "7": { "title": "Ankunft", "desc": "Willkommen in Deutschland!" }
+    }
+  },
+  "industries": {
+    "title": "Branchen & Berufe",
+    "subtitle": "Wir vermitteln Fachkräfte in zahlreichen Branchen",
+    "nursing": "Pflege & Gesundheit",
+    "craft": "Handwerk",
+    "it": "IT & Technik",
+    "gastronomy": "Gastronomie & Hotellerie",
+    "logistics": "Logistik & Transport",
+    "construction": "Bau & Architektur"
+  },
+  "testimonials": {
+    "title": "Erfolgsgeschichten",
+    "subtitle": "Was unsere Kandidaten und Arbeitgeber sagen"
+  },
+  "cta": {
+    "title": "Bereit für den nächsten Schritt?",
+    "subtitle": "Starten Sie jetzt Ihre Reise nach Deutschland oder finden Sie qualifizierte Fachkräfte für Ihr Unternehmen.",
+    "candidate": "Jetzt bewerben",
+    "employer": "Personal anfragen"
+  },
+  "candidates": {
+    "title": "Für Fachkräfte",
+    "subtitle": "Ihre Chance auf eine Karriere in Deutschland",
+    "benefits": {
+      "title": "Ihre Vorteile",
+      "1": "Zugang zu exklusiven Stellen bei Top-Arbeitgebern",
+      "2": "Persönliche Betreuung in Ihrer Sprache",
+      "3": "Unterstützung bei Visum und Arbeitserlaubnis",
+      "4": "Hilfe bei der Integration in Deutschland",
+      "5": "Transparentes Status-Tracking online"
+    },
+    "requirements": {
+      "title": "Voraussetzungen",
+      "1": "Abgeschlossene Berufsausbildung oder Studium",
+      "2": "Mindestens 2 Jahre Berufserfahrung",
+      "3": "Grundkenntnisse Deutsch (A2 oder höher empfohlen)",
+      "4": "Gültiger Reisepass",
+      "5": "Motivation und Flexibilität"
+    }
+  },
+  "employers": {
+    "title": "Für Arbeitgeber",
+    "subtitle": "Qualifizierte Fachkräfte — sorgfältig ausgewählt",
+    "benefits": {
+      "title": "Ihre Vorteile",
+      "1": "Vorgeprüfte, qualifizierte Kandidaten",
+      "2": "Schnelle Vermittlung nach Ihren Anforderungen",
+      "3": "Unterstützung bei allen Formalitäten",
+      "4": "Langfristige Partnerschaft mit RKS",
+      "5": "Transparente Kommunikation und Reporting"
+    },
+    "portalInfoTitle": "Ihr persönliches Arbeitgeber-Portal",
+    "portalInfoDesc": "Nach Ihrer Personalanfrage erhalten Sie Zugang zu Ihrem eigenen Portal. Dort werden Ihnen passende Fachkräfte-Profile angezeigt — übersichtlich, aktuell und jederzeit abrufbar.",
+    "ctaRequest": "Personal anfragen"
+  },
+  "about": {
+    "title": "Über RKS Fachkräfte",
+    "subtitle": "Ihr vertrauensvoller Partner für internationale Fachkräftevermittlung",
+    "missionTitle": "Mission",
+    "visionTitle": "Vision",
+    "mission": "Unsere Mission ist es, qualifizierte Fachkräfte aus Marokko mit erstklassigen Arbeitgebern in Deutschland zu verbinden — fair, transparent und nachhaltig.",
+    "vision": "Wir schaffen eine Brücke zwischen zwei Nationen und ermöglichen Menschen, ihr volles Potenzial in Deutschland zu entfalten.",
+    "networkTitle": "Internationales Netzwerk",
+    "networkDesc": "Dank langjähriger internationaler Kontakte in Marokko und Deutschland verfügen wir über ein exklusives Netzwerk aus Partnern, Institutionen und Entscheidungsträgern — und können Fachkräfte gezielt identifizieren, die wirklich zu den Anforderungen des deutschen Arbeitsmarktes passen.",
+    "schoolsTitle": "Partnerschaft mit Sprachschulen",
+    "schoolsDesc": "Wir arbeiten eng mit ausgewählten lokalen Sprachschulen in Marokko zusammen. Dort werden Kandidaten nicht nur auf Deutsch vorbereitet, sondern auch auf Kultur, Arbeitsalltag und Anforderungen in Deutschland. So gewinnen wir ausschließlich die besten und bestens vorbereiteten Fachkräfte für unsere deutschen Partner.",
+    "qualityTitle": "Nur die Besten",
+    "qualityDesc": "Jeder Kandidat durchläuft eine mehrstufige Auswahl: Sprachprüfung, Qualifikationscheck, persönliches Gespräch und Abgleich mit den Anforderungen unserer Arbeitgeber. Qualität vor Quantität — das ist unser Versprechen.",
+    "statFounded": "Gegründet",
+    "statLocations": "Standorte (DE + MA)",
+    "statTeam": "Teammitglieder",
+    "statPartners": "Partner-Sprachschulen"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "candidatesTab": "Für Fachkräfte",
+    "employersTab": "Für Arbeitgeber",
+    "items": {
+      "c1": { "q": "Wie lange dauert der Vermittlungsprozess?", "a": "In der Regel 3–6 Monate, abhängig von Ihrer Qualifikation und dem Visumverfahren." },
+      "c2": { "q": "Welche Kosten entstehen für mich?", "a": "Für Kandidaten ist unsere Vermittlung kostenfrei. Alle Kosten werden transparent kommuniziert." },
+      "c3": { "q": "Muss ich Deutsch sprechen?", "a": "Grundkenntnisse (A2) sind empfohlen. Wir unterstützen Sie bei der weiteren Sprachausbildung." },
+      "c4": { "q": "Welche Dokumente benötige ich?", "a": "Lebenslauf, Ausbildungszeugnisse, Reisepass und optional Sprachzertifikate und Arbeitszeugnisse." },
+      "e1": { "q": "Wie schnell erhalte ich Kandidatenvorschläge?", "a": "Innerhalb von 2–4 Wochen nach Ihrer Anfrage erhalten Sie passende Profile." },
+      "e2": { "q": "Wie werden Kandidaten geprüft?", "a": "Jeder Kandidat durchläuft eine mehrstufige Prüfung: Dokumente, Qualifikation, persönliches Interview." },
+      "e3": { "q": "Welche Branchen decken Sie ab?", "a": "Pflege, Handwerk, IT, Gastronomie, Logistik, Bau und weitere Branchen." }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Wir freuen uns auf Ihre Nachricht",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "whatsapp": "WhatsApp",
+    "phone": "Telefon",
+    "success": "Ihre Nachricht wurde gesendet!"
+  },
+  "legal": {
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "cookies": "Cookie-Einstellungen"
+  },
+  "apply": {
+    "title": "Bewerbung als Fachkraft",
+    "subtitle": "Füllen Sie das Formular Schritt für Schritt aus",
+    "step1": "Persönliche Daten",
+    "step2": "Qualifikation",
+    "step3": "Präferenzen",
+    "step4": "Dokumente",
+    "step5": "Einwilligung",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "birthDate": "Geburtsdatum",
+    "nationality": "Nationalität",
+    "city": "Wohnort",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp (optional)",
+    "preferredLanguage": "Bevorzugte Sprache",
+    "profession": "Berufskategorie",
+    "experience": "Berufserfahrung (Jahre)",
+    "education": "Ausbildung / Abschluss",
+    "institution": "Institution",
+    "graduationYear": "Abschlussjahr",
+    "germanLevel": "Deutsch-Niveau",
+    "hasGermanCert": "Deutsch-Zertifikat vorhanden?",
+    "desiredRegion": "Gewünschte Region in Deutschland",
+    "startDate": "Frühestmöglicher Start",
+    "driversLicense": "Führerschein vorhanden?",
+    "motivation": "Motivation (max. 500 Zeichen)",
+    "uploadCv": "Lebenslauf (PDF)",
+    "uploadCerts": "Ausbildungszeugnisse",
+    "uploadLangCerts": "Sprachzertifikate (optional)",
+    "uploadId": "Reisepass / Personalausweis",
+    "uploadWorkRefs": "Arbeitszeugnisse (optional)",
+    "gdpr": "Ich stimme der Verarbeitung meiner Daten gemäß der Datenschutzerklärung zu.",
+    "submit": "Bewerbung absenden",
+    "next": "Weiter",
+    "back": "Zurück",
+    "success": "Bewerbung erfolgreich eingereicht!",
+    "applicationNumber": "Ihre Bewerbungsnummer"
+  },
+  "employerForm": {
+    "title": "Personal anfragen",
+    "subtitle": "Beschreiben Sie Ihren Personalbedarf",
+    "step1": "Unternehmen",
+    "step2": "Personalbedarf",
+    "step3": "Rahmenbedingungen",
+    "step4": "Absenden",
+    "companyName": "Firmenname",
+    "industry": "Branche",
+    "location": "Standort(e)",
+    "companySize": "Unternehmensgröße",
+    "contactPerson": "Ansprechpartner",
+    "position": "Position",
+    "professions": "Gesuchte Berufsgruppen",
+    "positions": "Anzahl Stellen",
+    "urgency": "Dringlichkeit",
+    "urgencyImmediate": "Sofort",
+    "urgency3months": "Innerhalb 3 Monate",
+    "urgency6months": "6+ Monate",
+    "requirements": "Anforderungsprofil",
+    "contractType": "Vertragsart",
+    "salaryRange": "Gehaltsrahmen (optional)",
+    "housing": "Unterkunft wird gestellt?",
+    "benefits": "Sonstige Benefits",
+    "submit": "Anfrage absenden",
+    "success": "Anfrage erfolgreich eingereicht!",
+    "portalInfoTitle": "So funktioniert Ihr Portal",
+    "portalInfoDesc": "Mit den Angaben in diesem Formular legen wir Ihr Unternehmensprofil an und richten Ihren Zugang zum Arbeitgeber-Portal ein. Sobald passende Fachkräfte zu Ihrer Anfrage gefunden wurden, werden die Profile dort für Sie angezeigt — Sie behalten den Überblick und können gezielt Kandidaten auswählen."
+  },
+  "portal": {
+    "title": "Kandidaten-Portal",
+    "welcome": "Willkommen",
+    "status": "Bewerbungsstatus",
+    "documents": "Meine Dokumente",
+    "profile": "Mein Profil",
+    "uploadMore": "Dokument nachreichen",
+    "statuses": {
+      "RECEIVED": "Eingegangen",
+      "IN_REVIEW": "In Prüfung",
+      "QUALIFIED": "Qualifiziert",
+      "MATCHING": "Matching",
+      "PLACED": "Vermittlung",
+      "VISA": "Visum",
+      "ARRIVED": "Eingereist"
+    }
+  },
+  "employerPortal": {
+    "title": "Arbeitgeber-Portal",
+    "requests": "Meine Anfragen",
+    "candidates": "Kandidatenprofile",
+    "newRequest": "Neue Anfrage"
+  },
+  "admin": {
+    "title": "Admin-Dashboard",
+    "applications": "Bewerbungen",
+    "employerRequests": "Arbeitgeber-Anfragen",
+    "users": "Benutzer",
+    "matching": "Matching",
+    "export": "Exportieren",
+    "changeStatus": "Status ändern",
+    "internalNote": "Interne Notiz",
+    "approveEmployer": "Arbeitgeber freischalten",
+    "createNew": "Neu anlegen",
+    "createCandidate": "Bewerber anlegen",
+    "createEmployer": "Arbeitgeber anlegen",
+    "createSubmit": "Eintrag speichern",
+    "createSuccess": "Erfolgreich angelegt — Referenz: {ref}",
+    "createError": "Fehler beim Anlegen",
+    "refreshList": "Liste aktualisieren",
+    "fieldFirstName": "Vorname",
+    "fieldLastName": "Nachname",
+    "fieldEmail": "E-Mail",
+    "fieldPassword": "Passwort (optional)",
+    "passwordHint": "Leer = Standardpasswort",
+    "fieldPhone": "Telefon",
+    "fieldCity": "Stadt",
+    "fieldProfession": "Beruf",
+    "fieldGermanLevel": "Deutsch-Niveau",
+    "fieldExperience": "Berufserfahrung (Jahre)",
+    "fieldStatus": "Startstatus",
+    "fieldCompany": "Firmenname",
+    "fieldContactPerson": "Ansprechpartner",
+    "fieldLocation": "Standort",
+    "fieldCompanySize": "Unternehmensgröße",
+    "fieldPositions": "Anzahl Stellen",
+    "fieldRequirements": "Anforderungsprofil",
+    "fieldHousing": "Unterkunft gestellt",
+    "approveImmediately": "Sofort freischalten"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "loginButton": "Einloggen",
+    "registerButton": "Konto erstellen",
+    "noAccount": "Noch kein Konto?",
+    "hasAccount": "Bereits ein Konto?",
+    "role": "Ich bin",
+    "roleCandidate": "Fachkraft",
+    "roleEmployer": "Arbeitgeber"
+  },
+  "tools": {
+    "qualificationCalc": "Qualifikations-Rechner",
+    "qualificationCalcDesc": "Prüfen Sie, ob Ihre Qualifikation zu deutschen Anforderungen passt",
+    "salaryCalc": "Gehalts-Rechner",
+    "salaryCalcDesc": "Erfahren Sie, was Sie in Deutschland verdienen können",
+    "visaTimeline": "Visum-Prozess",
+    "visaTimelineDesc": "Schritt für Schritt zum Arbeitserlaubnis-Visum",
+    "calculate": "Berechnen",
+    "result": "Ergebnis",
+    "goodMatch": "Gute Übereinstimmung mit deutschen Anforderungen",
+    "partialMatch": "Teilweise Übereinstimmung — weitere Qualifikation empfohlen",
+    "estimatedSalary": "Geschätztes Bruttogehalt"
+  },
+  "gamification": {
+    "choosePath": "Wähle deinen Weg",
+    "pathCandidate": "Ich bin Fachkraft",
+    "pathCandidateDesc": "Starte deine Karriere in Deutschland",
+    "pathEmployer": "Ich bin Arbeitgeber",
+    "pathEmployerDesc": "Finde qualifizierte Fachkräfte",
+    "exploreJourney": "Deine Reise entdecken",
+    "questTitle": "Deine Bergtour nach Deutschland",
+    "yourProgress": "Dein Fortschritt",
+    "stepOf": "Level {current} von {total}",
+    "nextStep": "Nächster Level",
+    "startQuest": "Quest starten",
+    "tapToUnlock": "Tippe auf die Karten, um Erfolge freizuschalten",
+    "unlocked": "Freigeschaltet",
+    "allUnlocked": "Alle Erfolge freigeschaltet!",
+    "pickIndustry": "Wähle deine Branche",
+    "selectedIndustry": "Deine Branche",
+    "applyNow": "Jetzt bewerben",
+    "finalCta": "Erreiche den Gipfel — starte jetzt!"
+  },
+  "footer": {
+    "tagline": "Ihre Brücke zwischen Marokko und Deutschland",
+    "rights": "Alle Rechte vorbehalten.",
+    "quickLinks": "Schnelllinks",
+    "legal": "Rechtliches"
+  },
+  "common": {
+    "yes": "Ja",
+    "no": "Nein",
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "view": "Ansehen",
+    "search": "Suchen",
+    "filter": "Filter",
+    "all": "Alle"
+  }
+}

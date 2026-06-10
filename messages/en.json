@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "title": "RKS Fachkräfte — Qualified Professionals from Morocco for Germany",
+    "description": "RKS Fachkräfte exclusively connects qualified professionals from Morocco with top employers in Germany."
+  },
+  "nav": {
+    "home": "Home",
+    "candidates": "For Professionals",
+    "employers": "For Employers",
+    "process": "Process",
+    "industries": "Industries",
+    "about": "About Us",
+    "faq": "FAQ",
+    "resources": "Resources",
+    "contact": "Contact",
+    "apply": "Apply Now",
+    "request": "Request Staff",
+    "login": "Login",
+    "portal": "My Portal",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "Your Bridge Between Morocco and Germany",
+    "subtitle": "RKS Fachkräfte exclusively connects qualified professionals from Morocco with top employers in Germany — personal, professional, reliable.",
+    "ctaCandidate": "Apply as Professional",
+    "ctaEmployer": "Request as Employer",
+    "trust": "Trusted by over 50 partner companies"
+  },
+  "stats": {
+    "placed": "Placed Professionals",
+    "employers": "Partner Employers",
+    "satisfaction": "Satisfaction Rate",
+    "countries": "Countries Connected"
+  },
+  "features": {
+    "title": "Why RKS Fachkräfte?",
+    "exclusive": { "title": "Exclusive Talent Pool", "desc": "Every candidate is personally vetted and qualified — only the best join our network." },
+    "support": { "title": "Full Support", "desc": "From application to visa to integration in Germany — we guide you every step." },
+    "quality": { "title": "Premium Employers", "desc": "We work exclusively with reputable, vetted companies in Germany." },
+    "languages": { "title": "Multilingual Support", "desc": "Communication in German, Arabic, French and English — no language barriers." }
+  },
+  "process": {
+    "title": "How It Works",
+    "subtitle": "7 steps to your new career in Germany",
+    "steps": {
+      "1": { "title": "Application", "desc": "Fill out the online form and upload documents" },
+      "2": { "title": "Review", "desc": "Qualifications and documents are reviewed" },
+      "3": { "title": "Qualification", "desc": "Admission to the exclusive talent pool" },
+      "4": { "title": "Matching", "desc": "Finding the right employer" },
+      "5": { "title": "Placement", "desc": "Employment contract and preparation" },
+      "6": { "title": "Visa", "desc": "Support with visa and work permit" },
+      "7": { "title": "Arrival", "desc": "Welcome to Germany!" }
+    }
+  },
+  "industries": {
+    "title": "Industries & Professions",
+    "subtitle": "We place professionals across many industries",
+    "nursing": "Healthcare & Nursing",
+    "craft": "Crafts & Trades",
+    "it": "IT & Technology",
+    "gastronomy": "Hospitality & Gastronomy",
+    "logistics": "Logistics & Transport",
+    "construction": "Construction & Architecture"
+  },
+  "testimonials": { "title": "Success Stories", "subtitle": "What our candidates and employers say" },
+  "cta": {
+    "title": "Ready for the Next Step?",
+    "subtitle": "Start your journey to Germany or find qualified professionals for your company.",
+    "candidate": "Apply Now",
+    "employer": "Request Staff"
+  },
+  "candidates": {
+    "title": "For Professionals",
+    "subtitle": "Your chance for a career in Germany",
+    "benefits": { "title": "Your Benefits", "1": "Access to exclusive positions at top employers", "2": "Personal support in your language", "3": "Visa and work permit assistance", "4": "Help with integration in Germany", "5": "Transparent online status tracking" },
+    "requirements": { "title": "Requirements", "1": "Completed vocational training or degree", "2": "At least 2 years of work experience", "3": "Basic German skills (A2 or higher recommended)", "4": "Valid passport", "5": "Motivation and flexibility" }
+  },
+  "employers": {
+    "title": "For Employers",
+    "subtitle": "Qualified professionals — carefully selected",
+    "benefits": { "title": "Your Benefits", "1": "Pre-screened, qualified candidates", "2": "Fast placement according to your requirements", "3": "Support with all formalities", "4": "Long-term partnership with RKS", "5": "Transparent communication and reporting" },
+    "portalInfoTitle": "Your personal employer portal",
+    "portalInfoDesc": "After submitting your staffing request, you receive access to your own portal. Matching candidate profiles are displayed there — clearly organised, up to date and available anytime.",
+    "ctaRequest": "Request staff"
+  },
+  "about": {
+    "title": "About RKS Fachkräfte",
+    "subtitle": "Your trusted partner for international professional placement",
+    "missionTitle": "Mission",
+    "visionTitle": "Vision",
+    "mission": "Our mission is to connect qualified professionals from Morocco with top employers in Germany — fair, transparent and sustainable.",
+    "vision": "We build a bridge between two nations and enable people to reach their full potential in Germany.",
+    "networkTitle": "International Network",
+    "networkDesc": "Through long-standing international contacts in Morocco and Germany, we have an exclusive network of partners, institutions and decision-makers — enabling us to identify professionals who truly match the requirements of the German labour market.",
+    "schoolsTitle": "Partnership with Language Schools",
+    "schoolsDesc": "We work closely with selected local language schools in Morocco. Candidates are prepared not only in German, but also in culture, working life and expectations in Germany. This is how we recruit only the best and best-prepared professionals for our German partners.",
+    "qualityTitle": "Only the Best",
+    "qualityDesc": "Every candidate goes through multi-stage selection: language assessment, qualification check, personal interview and matching with our employers' requirements. Quality over quantity — that is our promise.",
+    "statFounded": "Founded",
+    "statLocations": "Locations (DE + MA)",
+    "statTeam": "Team members",
+    "statPartners": "Partner language schools"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "candidatesTab": "For Professionals",
+    "employersTab": "For Employers",
+    "items": {
+      "c1": { "q": "How long does the placement process take?", "a": "Typically 3–6 months, depending on your qualifications and the visa process." },
+      "c2": { "q": "What costs are involved for me?", "a": "Placement is free for candidates. All costs are communicated transparently." },
+      "c3": { "q": "Do I need to speak German?", "a": "Basic skills (A2) are recommended. We support you with further language training." },
+      "c4": { "q": "What documents do I need?", "a": "CV, education certificates, passport, and optionally language certificates and work references." },
+      "e1": { "q": "How quickly will I receive candidate proposals?", "a": "Within 2–4 weeks of your request, you will receive matching profiles." },
+      "e2": { "q": "How are candidates screened?", "a": "Every candidate goes through multi-stage screening: documents, qualifications, personal interview." },
+      "e3": { "q": "Which industries do you cover?", "a": "Healthcare, crafts, IT, hospitality, logistics, construction and more." }
+    }
+  },
+  "contact": { "title": "Contact", "subtitle": "We look forward to hearing from you", "name": "Name", "email": "Email", "message": "Message", "send": "Send Message", "whatsapp": "WhatsApp", "phone": "Phone", "success": "Your message has been sent!" },
+  "legal": { "imprint": "Imprint", "privacy": "Privacy Policy", "terms": "Terms & Conditions", "cookies": "Cookie Settings" },
+  "apply": {
+    "title": "Apply as Professional", "subtitle": "Fill out the form step by step",
+    "step1": "Personal Data", "step2": "Qualifications", "step3": "Preferences", "step4": "Documents", "step5": "Consent",
+    "firstName": "First Name", "lastName": "Last Name", "birthDate": "Date of Birth", "nationality": "Nationality",     "city": "City",
+    "email": "Email",
+    "phone": "Phone", "whatsapp": "WhatsApp (optional)", "preferredLanguage": "Preferred Language", "profession": "Profession Category",
+    "experience": "Work Experience (years)", "education": "Education / Degree", "institution": "Institution", "graduationYear": "Graduation Year",
+    "germanLevel": "German Level", "hasGermanCert": "German certificate available?", "desiredRegion": "Desired Region in Germany",
+    "startDate": "Earliest Start Date", "driversLicense": "Driver's license?", "motivation": "Motivation (max. 500 characters)",
+    "uploadCv": "CV (PDF)", "uploadCerts": "Education Certificates", "uploadLangCerts": "Language Certificates (optional)",
+    "uploadId": "Passport / ID", "uploadWorkRefs": "Work References (optional)", "gdpr": "I agree to the processing of my data according to the privacy policy.",
+    "submit": "Submit Application", "next": "Next", "back": "Back", "success": "Application submitted successfully!", "applicationNumber": "Your application number"
+  },
+  "employerForm": {
+    "title": "Request Staff", "subtitle": "Describe your staffing needs",
+    "step1": "Company", "step2": "Staffing Needs", "step3": "Conditions", "step4": "Submit",
+    "companyName": "Company Name", "industry": "Industry", "location": "Location(s)", "companySize": "Company Size",
+    "contactPerson": "Contact Person", "position": "Position", "professions": "Required Professions", "positions": "Number of Positions",
+    "urgency": "Urgency", "urgencyImmediate": "Immediately", "urgency3months": "Within 3 months", "urgency6months": "6+ months",
+    "requirements": "Requirements Profile", "contractType": "Contract Type", "salaryRange": "Salary Range (optional)",
+    "housing": "Housing provided?", "benefits": "Other Benefits", "submit": "Submit Request", "success": "Request submitted successfully!",
+    "portalInfoTitle": "How your portal works",
+    "portalInfoDesc": "The details in this form are used to set up your company profile and employer portal access. Once we find suitable professionals for your request, their profiles will appear there — so you stay in control and can select candidates directly."
+  },
+  "portal": {
+    "title": "Candidate Portal", "welcome": "Welcome", "status": "Application Status", "documents": "My Documents", "profile": "My Profile", "uploadMore": "Upload Additional Document",
+    "statuses": { "RECEIVED": "Received", "IN_REVIEW": "In Review", "QUALIFIED": "Qualified", "MATCHING": "Matching", "PLACED": "Placed", "VISA": "Visa", "ARRIVED": "Arrived" }
+  },
+  "employerPortal": { "title": "Employer Portal", "requests": "My Requests", "candidates": "Candidate Profiles", "newRequest": "New Request" },
+  "admin": { "title": "Admin Dashboard", "applications": "Applications", "employerRequests": "Employer Requests", "users": "Users", "matching": "Matching", "export": "Export", "changeStatus": "Change Status", "internalNote": "Internal Note", "approveEmployer": "Approve Employer", "createNew": "Create new", "createCandidate": "Add candidate", "createEmployer": "Add employer", "createSubmit": "Save entry", "createSuccess": "Created successfully — Ref: {ref}", "createError": "Error creating entry", "refreshList": "Refresh list", "fieldFirstName": "First name", "fieldLastName": "Last name", "fieldEmail": "Email", "fieldPassword": "Password (optional)", "passwordHint": "Empty = default password", "fieldPhone": "Phone", "fieldCity": "City", "fieldProfession": "Profession", "fieldGermanLevel": "German level", "fieldExperience": "Experience (years)", "fieldStatus": "Initial status", "fieldCompany": "Company name", "fieldContactPerson": "Contact person", "fieldLocation": "Location", "fieldCompanySize": "Company size", "fieldPositions": "Number of positions", "fieldRequirements": "Requirements", "fieldHousing": "Housing provided", "approveImmediately": "Approve immediately" },
+  "auth": { "login": "Login", "register": "Register", "email": "Email", "password": "Password", "confirmPassword": "Confirm Password", "loginButton": "Sign In", "registerButton": "Create Account", "noAccount": "Don't have an account?", "hasAccount": "Already have an account?", "role": "I am a", "roleCandidate": "Professional", "roleEmployer": "Employer" },
+  "tools": { "qualificationCalc": "Qualification Calculator", "qualificationCalcDesc": "Check if your qualifications match German requirements", "salaryCalc": "Salary Calculator", "salaryCalcDesc": "Find out what you can earn in Germany", "visaTimeline": "Visa Process", "visaTimelineDesc": "Step by step to your work permit visa", "calculate": "Calculate", "result": "Result", "goodMatch": "Good match with German requirements", "partialMatch": "Partial match — further qualification recommended", "estimatedSalary": "Estimated gross salary" },
+  "gamification": {
+    "choosePath": "Choose your path",
+    "pathCandidate": "I'm a professional",
+    "pathCandidateDesc": "Start your career in Germany",
+    "pathEmployer": "I'm an employer",
+    "pathEmployerDesc": "Find qualified professionals",
+    "exploreJourney": "Explore your journey",
+    "questTitle": "Your mountain journey to Germany",
+    "yourProgress": "Your progress",
+    "stepOf": "Level {current} of {total}",
+    "nextStep": "Next level",
+    "startQuest": "Start quest",
+    "tapToUnlock": "Tap cards to unlock achievements",
+    "unlocked": "Unlocked",
+    "allUnlocked": "All achievements unlocked!",
+    "pickIndustry": "Choose your industry",
+    "selectedIndustry": "Your industry",
+    "applyNow": "Apply now",
+    "finalCta": "Reach the summit — start now!"
+  },
+  "footer": { "tagline": "Your bridge between Morocco and Germany", "rights": "All rights reserved.", "quickLinks": "Quick Links", "legal": "Legal" },
+  "common": { "yes": "Yes", "no": "No", "loading": "Loading...", "error": "An error occurred", "save": "Save", "cancel": "Cancel", "delete": "Delete", "edit": "Edit", "view": "View", "search": "Search", "filter": "Filter", "all": "All" }
+}

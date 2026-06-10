@@ -1,0 +1,16 @@
+{
+  "name": "RKS Fachkräfte",
+  "short_name": "RKS",
+  "description": "Qualifizierte Fachkräfte aus Marokko für Deutschland",
+  "start_url": "/de",
+  "display": "standalone",
+  "background_color": "#0c2340",
+  "theme_color": "#c62828",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

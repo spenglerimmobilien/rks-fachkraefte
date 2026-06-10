@@ -1,0 +1,150 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                String   @id @default(cuid())
+  email             String   @unique
+  passwordHash      String
+  role              String   @default("CANDIDATE")
+  preferredLanguage String   @default("de")
+  isApproved        Boolean  @default(false)
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  candidateProfile CandidateProfile?
+  employerProfile  EmployerProfile?
+  auditLogs        AuditLog[]
+}
+
+model CandidateProfile {
+  id               String   @id @default(cuid())
+  userId           String   @unique
+  user             User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  firstName        String
+  lastName         String
+  birthDate        String?
+  nationality      String?
+  city             String?
+  phone            String?
+  whatsapp         String?
+  profession       String?
+  experienceYears  Int?
+  education        String?
+  institution      String?
+  graduationYear   String?
+  germanLevel      String?
+  hasGermanCert    Boolean  @default(false)
+  languageSkills   String?
+  desiredRegion    String?
+  startDate        String?
+  driversLicense   Boolean  @default(false)
+  motivation       String?
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  applications Application[]
+  documents    Document[]
+}
+
+model EmployerProfile {
+  id            String   @id @default(cuid())
+  userId        String   @unique
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  companyName   String
+  industry      String?
+  location      String?
+  companySize   String?
+  contactPerson String?
+  position      String?
+  phone         String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  requests EmployerRequest[]
+}
+
+model Application {
+  id                String   @id @default(cuid())
+  applicationNumber String   @unique
+  candidateId       String
+  candidate         CandidateProfile @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  status            String   @default("RECEIVED")
+  employerRequestId String?
+  employerRequest   EmployerRequest? @relation(fields: [employerRequestId], references: [id])
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  statusHistory StatusHistory[]
+  documents     Document[]
+}
+
+model Document {
+  id            String   @id @default(cuid())
+  candidateId   String
+  candidate     CandidateProfile @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  applicationId String?
+  application   Application? @relation(fields: [applicationId], references: [id])
+  type          String
+  fileName      String
+  fileUrl       String
+  fileSize      Int
+  mimeType      String
+  status        String   @default("PENDING")
+  createdAt     DateTime @default(now())
+}
+
+model EmployerRequest {
+  id            String   @id @default(cuid())
+  requestNumber String   @unique
+  employerId    String
+  employer      EmployerProfile @relation(fields: [employerId], references: [id], onDelete: Cascade)
+  professions   String
+  positions     Int
+  urgency       String   @default("THREE_MONTHS")
+  requirements  String?
+  contractType  String?
+  salaryRange   String?
+  housing       Boolean  @default(false)
+  benefits      String?
+  status        String   @default("PENDING")
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  applications Application[]
+}
+
+model StatusHistory {
+  id            String   @id @default(cuid())
+  applicationId String
+  application   Application @relation(fields: [applicationId], references: [id], onDelete: Cascade)
+  status        String
+  note          String?
+  changedBy     String?
+  createdAt     DateTime @default(now())
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  action    String
+  entity    String
+  entityId  String
+  details   String?
+  createdAt DateTime @default(now())
+}
+
+model ContactMessage {
+  id        String   @id @default(cuid())
+  name      String
+  email     String
+  message   String
+  locale    String   @default("de")
+  createdAt DateTime @default(now())
+}

@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "RKS Fachkräfte — Professionnels qualifiés du Maroc pour l'Allemagne",
+    "description": "RKS Fachkräfte connecte exclusivement des professionnels qualifiés du Maroc avec des employeurs de premier plan en Allemagne."
+  },
+  "nav": {
+    "home": "Accueil", "candidates": "Pour les professionnels", "employers": "Pour les employeurs", "process": "Processus", "industries": "Secteurs", "about": "À propos", "faq": "FAQ", "resources": "Ressources", "contact": "Contact", "apply": "Postuler", "request": "Demander du personnel", "login": "Connexion", "portal": "Mon portail", "logout": "Déconnexion"
+  },
+  "hero": {
+    "title": "Votre pont entre le Maroc et l'Allemagne",
+    "subtitle": "RKS Fachkräfte connecte exclusivement des professionnels qualifiés du Maroc avec des employeurs de premier plan en Allemagne — personnel, professionnel, fiable.",
+    "ctaCandidate": "Postuler comme professionnel", "ctaEmployer": "Demander comme employeur", "trust": "La confiance de plus de 50 entreprises partenaires"
+  },
+  "stats": { "placed": "Professionnels placés", "employers": "Employeurs partenaires", "satisfaction": "Taux de satisfaction", "countries": "Pays connectés" },
+  "features": {
+    "title": "Pourquoi RKS Fachkräfte?",
+    "exclusive": { "title": "Vivier exclusif", "desc": "Chaque candidat est personnellement vérifié — seuls les meilleurs rejoignent notre réseau." },
+    "support": { "title": "Accompagnement complet", "desc": "De la candidature au visa jusqu'à l'intégration en Allemagne — nous vous guidons à chaque étape." },
+    "quality": { "title": "Employeurs premium", "desc": "Nous travaillons exclusivement avec des entreprises sérieuses et vérifiées en Allemagne." },
+    "languages": { "title": "Support multilingue", "desc": "Communication en allemand, arabe, français et anglais — sans barrières linguistiques." }
+  },
+  "process": {
+    "title": "Comment ça marche", "subtitle": "7 étapes vers votre nouvelle carrière en Allemagne",
+    "steps": {
+      "1": { "title": "Candidature", "desc": "Remplir le formulaire en ligne et télécharger les documents" },
+      "2": { "title": "Examen", "desc": "Vérification des qualifications et documents" },
+      "3": { "title": "Qualification", "desc": "Admission dans le vivier exclusif" },
+      "4": { "title": "Matching", "desc": "Recherche de l'employeur adapté" },
+      "5": { "title": "Placement", "desc": "Contrat de travail et préparation" },
+      "6": { "title": "Visa", "desc": "Aide pour le visa et le permis de travail" },
+      "7": { "title": "Arrivée", "desc": "Bienvenue en Allemagne!" }
+    }
+  },
+  "industries": { "title": "Secteurs & Métiers", "subtitle": "Nous plaçons des professionnels dans de nombreux secteurs", "nursing": "Santé & Soins", "craft": "Artisanat", "it": "IT & Technologie", "gastronomy": "Hôtellerie & Restauration", "logistics": "Logistique & Transport", "construction": "Construction & Architecture" },
+  "testimonials": { "title": "Histoires de réussite", "subtitle": "Ce que disent nos candidats et employeurs" },
+  "cta": { "title": "Prêt pour la prochaine étape?", "subtitle": "Commencez votre voyage vers l'Allemagne ou trouvez des professionnels qualifiés.", "candidate": "Postuler", "employer": "Demander du personnel" },
+  "candidates": {
+    "title": "Pour les professionnels", "subtitle": "Votre chance de carrière en Allemagne",
+    "benefits": { "title": "Vos avantages", "1": "Accès à des postes exclusifs chez les meilleurs employeurs", "2": "Accompagnement personnel dans votre langue", "3": "Aide pour le visa et le permis de travail", "4": "Aide à l'intégration en Allemagne", "5": "Suivi de statut transparent en ligne" },
+    "requirements": { "title": "Prérequis", "1": "Formation professionnelle ou diplôme universitaire", "2": "Au moins 2 ans d'expérience", "3": "Connaissances de base en allemand (A2 ou plus recommandé)", "4": "Passeport valide", "5": "Motivation et flexibilité" }
+  },
+  "employers": {
+    "title": "Pour les employeurs", "subtitle": "Professionnels qualifiés — soigneusement sélectionnés",
+    "benefits": { "title": "Vos avantages", "1": "Candidats pré-sélectionnés et qualifiés", "2": "Placement rapide selon vos besoins", "3": "Support pour toutes les formalités", "4": "Partenariat à long terme avec RKS", "5": "Communication et reporting transparents" },
+    "portalInfoTitle": "Votre portail employeur personnel",
+    "portalInfoDesc": "Après votre demande de personnel, vous recevez l'accès à votre propre portail. Les profils de candidats correspondants y sont affichés — clairement organisés, à jour et accessibles à tout moment.",
+    "ctaRequest": "Demander du personnel"
+  },
+  "about": { "title": "À propos de RKS Fachkräfte", "subtitle": "Votre partenaire de confiance pour le placement international", "missionTitle": "Mission", "visionTitle": "Vision", "mission": "Notre mission est de connecter des professionnels qualifiés du Maroc avec des employeurs de premier plan en Allemagne.", "vision": "Nous construisons un pont entre deux nations et permettons aux gens de réaliser leur plein potentiel en Allemagne.", "networkTitle": "Réseau international", "networkDesc": "Grâce à des contacts internationaux de longue date au Maroc et en Allemagne, nous disposons d'un réseau exclusif de partenaires et d'institutions — pour identifier les professionnels qui correspondent vraiment aux exigences du marché allemand.", "schoolsTitle": "Partenariat avec les écoles de langues", "schoolsDesc": "Nous collaborons étroitement avec des écoles de langues locales sélectionnées au Maroc. Les candidats y sont préparés non seulement en allemand, mais aussi à la culture et au monde du travail en Allemagne. Ainsi, nous recrutons uniquement les meilleurs professionnels pour nos partenaires allemands.", "qualityTitle": "Seulement les meilleurs", "qualityDesc": "Chaque candidat passe par une sélection en plusieurs étapes : évaluation linguistique, vérification des qualifications, entretien personnel et correspondance avec les exigences de nos employeurs. La qualité avant la quantité — c'est notre promesse.", "statFounded": "Fondé", "statLocations": "Sites (DE + MA)", "statTeam": "Membres de l'équipe", "statPartners": "Écoles de langues partenaires" },
+  "faq": {
+    "title": "Questions fréquentes", "candidatesTab": "Pour les professionnels", "employersTab": "Pour les employeurs",
+    "items": {
+      "c1": { "q": "Combien de temps dure le processus?", "a": "Généralement 3 à 6 mois, selon vos qualifications et le processus de visa." },
+      "c2": { "q": "Quels coûts pour moi?", "a": "Le placement est gratuit pour les candidats. Tous les coûts sont communiqués de manière transparente." },
+      "c3": { "q": "Dois-je parler allemand?", "a": "Des connaissances de base (A2) sont recommandées. Nous vous aidons pour la formation linguistique." },
+      "c4": { "q": "Quels documents sont nécessaires?", "a": "CV, certificats de formation, passeport, et optionnellement certificats de langue et références." },
+      "e1": { "q": "Quand recevrai-je des propositions?", "a": "Dans les 2 à 4 semaines suivant votre demande." },
+      "e2": { "q": "Comment les candidats sont-ils vérifiés?", "a": "Chaque candidat passe par un examen en plusieurs étapes." },
+      "e3": { "q": "Quels secteurs couvrez-vous?", "a": "Santé, artisanat, IT, hôtellerie, logistique, construction et plus." }
+    }
+  },
+  "contact": { "title": "Contact", "subtitle": "Nous serions ravis de vous entendre", "name": "Nom", "email": "E-mail", "message": "Message", "send": "Envoyer", "whatsapp": "WhatsApp", "phone": "Téléphone", "success": "Votre message a été envoyé!" },
+  "legal": { "imprint": "Mentions légales", "privacy": "Politique de confidentialité", "terms": "CGV", "cookies": "Paramètres des cookies" },
+  "apply": {
+    "title": "Candidature professionnelle", "subtitle": "Remplissez le formulaire étape par étape",
+    "step1": "Données personnelles", "step2": "Qualifications", "step3": "Préférences", "step4": "Documents", "step5": "Consentement",
+    "firstName": "Prénom", "lastName": "Nom", "birthDate": "Date de naissance", "nationality": "Nationalité",     "city": "Ville",
+    "email": "E-mail",
+    "phone": "Téléphone", "whatsapp": "WhatsApp (optionnel)", "preferredLanguage": "Langue préférée", "profession": "Catégorie professionnelle",
+    "experience": "Expérience (années)", "education": "Formation / Diplôme", "institution": "Institution", "graduationYear": "Année d'obtention",
+    "germanLevel": "Niveau d'allemand", "hasGermanCert": "Certificat d'allemand disponible?", "desiredRegion": "Région souhaitée en Allemagne",
+    "startDate": "Date de début souhaitée", "driversLicense": "Permis de conduire?", "motivation": "Motivation (max. 500 caractères)",
+    "uploadCv": "CV (PDF)", "uploadCerts": "Certificats de formation", "uploadLangCerts": "Certificats de langue (optionnel)",
+    "uploadId": "Passeport / Carte d'identité", "uploadWorkRefs": "Références professionnelles (optionnel)",
+    "gdpr": "J'accepte le traitement de mes données conformément à la politique de confidentialité.",
+    "submit": "Soumettre la candidature", "next": "Suivant", "back": "Retour", "success": "Candidature soumise avec succès!", "applicationNumber": "Votre numéro de candidature"
+  },
+  "employerForm": {
+    "title": "Demande de personnel", "subtitle": "Décrivez vos besoins en personnel",
+    "step1": "Entreprise", "step2": "Besoins", "step3": "Conditions", "step4": "Soumettre",
+    "companyName": "Nom de l'entreprise", "industry": "Secteur", "location": "Lieu(x)", "companySize": "Taille de l'entreprise",
+    "contactPerson": "Personne de contact", "position": "Poste", "professions": "Professions recherchées", "positions": "Nombre de postes",
+    "urgency": "Urgence", "urgencyImmediate": "Immédiatement", "urgency3months": "Dans 3 mois", "urgency6months": "6+ mois",
+    "requirements": "Profil des exigences", "contractType": "Type de contrat", "salaryRange": "Fourchette salariale (optionnel)",
+    "housing": "Logement fourni?", "benefits": "Autres avantages", "submit": "Soumettre la demande", "success": "Demande soumise avec succès!",
+    "portalInfoTitle": "Comment fonctionne votre portail",
+    "portalInfoDesc": "Les informations de ce formulaire servent à créer votre profil d'entreprise et votre accès au portail employeur. Dès que nous trouvons des professionnels adaptés à votre demande, leurs profils y seront affichés — vous gardez la vue d'ensemble et pouvez sélectionner des candidats directement."
+  },
+  "portal": {
+    "title": "Portail candidat", "welcome": "Bienvenue", "status": "Statut de candidature", "documents": "Mes documents", "profile": "Mon profil", "uploadMore": "Télécharger un document supplémentaire",
+    "statuses": { "RECEIVED": "Reçu", "IN_REVIEW": "En examen", "QUALIFIED": "Qualifié", "MATCHING": "Matching", "PLACED": "Placé", "VISA": "Visa", "ARRIVED": "Arrivé" }
+  },
+  "employerPortal": { "title": "Portail employeur", "requests": "Mes demandes", "candidates": "Profils candidats", "newRequest": "Nouvelle demande" },
+  "admin": { "title": "Tableau de bord admin", "applications": "Candidatures", "employerRequests": "Demandes employeurs", "users": "Utilisateurs", "matching": "Matching", "export": "Exporter", "changeStatus": "Changer le statut", "internalNote": "Note interne", "approveEmployer": "Approuver l'employeur", "createNew": "Créer", "createCandidate": "Ajouter candidat", "createEmployer": "Ajouter employeur", "createSubmit": "Enregistrer", "createSuccess": "Créé avec succès — Réf: {ref}", "createError": "Erreur lors de la création", "refreshList": "Actualiser", "fieldFirstName": "Prénom", "fieldLastName": "Nom", "fieldEmail": "E-mail", "fieldPassword": "Mot de passe (optionnel)", "passwordHint": "Vide = mot de passe par défaut", "fieldPhone": "Téléphone", "fieldCity": "Ville", "fieldProfession": "Profession", "fieldGermanLevel": "Niveau d'allemand", "fieldExperience": "Expérience (années)", "fieldStatus": "Statut initial", "fieldCompany": "Entreprise", "fieldContactPerson": "Contact", "fieldLocation": "Lieu", "fieldCompanySize": "Taille", "fieldPositions": "Nombre de postes", "fieldRequirements": "Exigences", "fieldHousing": "Logement fourni", "approveImmediately": "Approuver immédiatement" },
+  "auth": { "login": "Connexion", "register": "S'inscrire", "email": "E-mail", "password": "Mot de passe", "confirmPassword": "Confirmer le mot de passe", "loginButton": "Se connecter", "registerButton": "Créer un compte", "noAccount": "Pas encore de compte?", "hasAccount": "Déjà un compte?", "role": "Je suis", "roleCandidate": "Professionnel", "roleEmployer": "Employeur" },
+  "tools": { "qualificationCalc": "Calculateur de qualifications", "qualificationCalcDesc": "Vérifiez si vos qualifications correspondent aux exigences allemandes", "salaryCalc": "Calculateur de salaire", "salaryCalcDesc": "Découvrez ce que vous pouvez gagner en Allemagne", "visaTimeline": "Processus de visa", "visaTimelineDesc": "Étape par étape vers votre visa de travail", "calculate": "Calculer", "result": "Résultat", "goodMatch": "Bonne correspondance avec les exigences allemandes", "partialMatch": "Correspondance partielle — qualification supplémentaire recommandée", "estimatedSalary": "Salaire brut estimé" },
+  "gamification": {
+    "choosePath": "Choisissez votre voie",
+    "pathCandidate": "Je suis professionnel",
+    "pathCandidateDesc": "Commencez votre carrière en Allemagne",
+    "pathEmployer": "Je suis employeur",
+    "pathEmployerDesc": "Trouvez des professionnels qualifiés",
+    "exploreJourney": "Découvrez votre parcours",
+    "questTitle": "Votre ascension vers l'Allemagne",
+    "yourProgress": "Votre progression",
+    "stepOf": "Niveau {current} sur {total}",
+    "nextStep": "Niveau suivant",
+    "startQuest": "Commencer la quête",
+    "tapToUnlock": "Appuyez pour débloquer les succès",
+    "unlocked": "Débloqué",
+    "allUnlocked": "Tous les succès débloqués !",
+    "pickIndustry": "Choisissez votre secteur",
+    "selectedIndustry": "Votre secteur",
+    "applyNow": "Postuler",
+    "finalCta": "Atteignez le sommet — commencez !"
+  },
+  "footer": { "tagline": "Votre pont entre le Maroc et l'Allemagne", "rights": "Tous droits réservés.", "quickLinks": "Liens rapides", "legal": "Mentions légales" },
+  "common": { "yes": "Oui", "no": "Non", "loading": "Chargement...", "error": "Une erreur s'est produite", "save": "Enregistrer", "cancel": "Annuler", "delete": "Supprimer", "edit": "Modifier", "view": "Voir", "search": "Rechercher", "filter": "Filtrer", "all": "Tous" }
+}
