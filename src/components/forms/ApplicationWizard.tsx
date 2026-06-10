@@ -12,7 +12,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Card, CardContent } from "@/components/ui/card";
-import { PROFESSIONS, GERMAN_LEVELS } from "@/lib/constants";
+import { PROFESSIONS, GERMAN_LEVELS, NATIONALITIES } from "@/lib/constants";
 import { localeNames, type Locale } from "@/i18n/routing";
 
 type FormData = {
@@ -108,7 +108,17 @@ export function ApplicationWizard() {
               </div>
               <div className="grid grid-cols-2 gap-4">
                 <div><Label>{t("birthDate")}</Label><Input type="date" value={data.birthDate} onChange={(e) => update("birthDate", e.target.value)} /></div>
-                <div><Label>{t("nationality")}</Label><Input value={data.nationality} onChange={(e) => update("nationality", e.target.value)} /></div>
+                <div>
+                  <Label>{t("nationality")}</Label>
+                  <Select value={data.nationality} onValueChange={(v) => update("nationality", v)} required>
+                    <SelectTrigger><SelectValue placeholder={t("selectNationality")} /></SelectTrigger>
+                    <SelectContent>
+                      {NATIONALITIES.map((n) => (
+                        <SelectItem key={n} value={n}>{n}</SelectItem>
+                      ))}
+                    </SelectContent>
+                  </Select>
+                </div>
               </div>
               <div><Label>{t("city")}</Label><Input value={data.city} onChange={(e) => update("city", e.target.value)} /></div>
               <div><Label>{t("email")}</Label><Input type="email" value={data.email} onChange={(e) => update("email", e.target.value)} required /></div>

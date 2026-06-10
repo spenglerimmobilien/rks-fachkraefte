@@ -64,7 +64,7 @@
   "apply": {
     "title": "التقديم ككفاءة", "subtitle": "املأ النموذج خطوة بخطوة",
     "step1": "البيانات الشخصية", "step2": "المؤهلات", "step3": "التفضيلات", "step4": "المستندات", "step5": "الموافقة",
-    "firstName": "الاسم الأول", "lastName": "اسم العائلة", "birthDate": "تاريخ الميلاد", "nationality": "الجنسية",     "city": "المدينة",
+    "firstName": "الاسم الأول", "lastName": "اسم العائلة", "birthDate": "تاريخ الميلاد", "nationality": "الجنسية", "selectNationality": "اختر الجنسية", "city": "المدينة",
     "email": "البريد الإلكتروني",
     "phone": "الهاتف", "whatsapp": "واتساب (اختياري)", "preferredLanguage": "اللغة المفضلة", "profession": "فئة المهنة",
     "experience": "سنوات الخبرة", "education": "التعليم / الشهادة", "institution": "المؤسسة", "graduationYear": "سنة التخرج",

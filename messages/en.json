@@ -120,7 +120,7 @@
   "apply": {
     "title": "Apply as Professional", "subtitle": "Fill out the form step by step",
     "step1": "Personal Data", "step2": "Qualifications", "step3": "Preferences", "step4": "Documents", "step5": "Consent",
-    "firstName": "First Name", "lastName": "Last Name", "birthDate": "Date of Birth", "nationality": "Nationality",     "city": "City",
+    "firstName": "First Name", "lastName": "Last Name", "birthDate": "Date of Birth", "nationality": "Nationality", "selectNationality": "Select nationality", "city": "City",
     "email": "Email",
     "phone": "Phone", "whatsapp": "WhatsApp (optional)", "preferredLanguage": "Preferred Language", "profession": "Profession Category",
     "experience": "Work Experience (years)", "education": "Education / Degree", "institution": "Institution", "graduationYear": "Graduation Year",

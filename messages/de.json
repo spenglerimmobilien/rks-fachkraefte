@@ -180,6 +180,7 @@
     "lastName": "Nachname",
     "birthDate": "Geburtsdatum",
     "nationality": "Nationalität",
+    "selectNationality": "Nationalität wählen",
     "city": "Wohnort",
     "email": "E-Mail",
     "phone": "Telefon",

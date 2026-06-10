@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import bcrypt from "bcryptjs";
 import { prisma } from "@/lib/prisma";
+import { NATIONALITIES } from "@/lib/constants";
 import { generateApplicationNumber } from "@/lib/utils";
 import { saveUploadedFile } from "@/lib/upload";
 const DOC_TYPE_MAP: Record<string, string> = {
@@ -20,6 +21,11 @@ export async function POST(request: NextRequest) {
 
     if (!email || !password) {
       return NextResponse.json({ error: "Email and password required" }, { status: 400 });
+    }
+
+    const nationality = formData.get("nationality") as string;
+    if (!nationality || !NATIONALITIES.includes(nationality as (typeof NATIONALITIES)[number])) {
+      return NextResponse.json({ error: "Invalid nationality" }, { status: 400 });
     }
 
     const existing = await prisma.user.findUnique({ where: { email } });
@@ -42,7 +48,7 @@ export async function POST(request: NextRequest) {
             firstName: formData.get("firstName") as string,
             lastName: formData.get("lastName") as string,
             birthDate: formData.get("birthDate") as string,
-            nationality: formData.get("nationality") as string,
+            nationality,
             city: formData.get("city") as string,
             phone: formData.get("phone") as string,
             whatsapp: formData.get("whatsapp") as string,

@@ -64,7 +64,7 @@
   "apply": {
     "title": "Candidature professionnelle", "subtitle": "Remplissez le formulaire étape par étape",
     "step1": "Données personnelles", "step2": "Qualifications", "step3": "Préférences", "step4": "Documents", "step5": "Consentement",
-    "firstName": "Prénom", "lastName": "Nom", "birthDate": "Date de naissance", "nationality": "Nationalité",     "city": "Ville",
+    "firstName": "Prénom", "lastName": "Nom", "birthDate": "Date de naissance", "nationality": "Nationalité", "selectNationality": "Choisir la nationalité", "city": "Ville",
     "email": "E-mail",
     "phone": "Téléphone", "whatsapp": "WhatsApp (optionnel)", "preferredLanguage": "Langue préférée", "profession": "Catégorie professionnelle",
     "experience": "Expérience (années)", "education": "Formation / Diplôme", "institution": "Institution", "graduationYear": "Année d'obtention",
